@@ -3,6 +3,9 @@
 "version" : "1.2.3",
 "description" : "A package for fooing things",
 "main" : "Servidor.js",
+  scripts": {
+    "start" : "node Servidor.js"
+  },
 "keywords" : ["foo", "fool", "foolish"],
 "author" : "John Doe",
 "licence" : "ISC"
